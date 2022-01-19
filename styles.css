@@ -1,0 +1,22 @@
+p {
+color: rgb(32,32,32); 
+}
+
+h1 {
+color: red; 
+}
+
+h2 {
+color: green; 
+}
+
+td {
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	font-size: xx-large;
+}
+
+td, th { 
+border-color: red; 
+}
