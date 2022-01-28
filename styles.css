@@ -42,3 +42,8 @@ font-family:Verdana }
 font-family:Comic Sans MS } 
 [front=Courier] {
 font-family:Courier New }
+
+.ex_17_1 {
+	font-size: 30px;
+	line-height: 15px;
+}
