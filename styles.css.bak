@@ -45,5 +45,5 @@ font-family:Courier New }
 
 p {
 
-	font: 30px "Times New Roman" / 20px;
+	font: 30px/20px Times New Roman;
 }
