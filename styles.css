@@ -42,3 +42,9 @@ font-family:Verdana }
 font-family:Comic Sans MS } 
 [front=Courier] {
 font-family:Courier New }
+
+.z20 {
+	text-indent: 50px;
+	text-align: justify;
+	width: 400px;
+}
