@@ -42,3 +42,13 @@ font-family:Verdana }
 font-family:Comic Sans MS } 
 [front=Courier] {
 font-family:Courier New }
+
+h2.header {
+	color: red;
+	font-size: 40px;
+}
+
+h3.header {
+	color: red;
+	font-size: 30px;
+}
