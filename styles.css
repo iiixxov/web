@@ -8,9 +8,7 @@ h1 {
 color: red; 
 }
 
-h2 {
-color: green; 
-}
+
 
 td {
 	width: 100px;
@@ -42,3 +40,15 @@ font-family:Verdana }
 font-family:Comic Sans MS } 
 [front=Courier] {
 font-family:Courier New }
+
+#elem1 {
+	color:red;
+}
+
+#elem2 {
+	color:green;
+}
+
+#elem3 {
+	color: blue;
+}
