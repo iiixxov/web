@@ -42,3 +42,8 @@ font-family:Verdana }
 font-family:Comic Sans MS } 
 [front=Courier] {
 font-family:Courier New }
+
+.z21_1 {
+	text-decoration: overline;
+	color: red;
+}
