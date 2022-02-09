@@ -71,10 +71,10 @@
 <p front=Comic> Comic Sans MS</p> 
 <p front=Courier >Courier New</p> 
 
-<p class="success" "lage" > никита зеленый</p>
-<p class="error" "small"> валя красный</p>
-<p class="large" "error" > семён сайз 30 рх </p>
-<p class="small" "success" > дима сайз 20 рх </p>
+<p class="success lage" > никита зеленый</p>
+<p class="error small"> валя красный</p>
+<p class="large error" > семён сайз 30 рх </p>
+<p class="small success" > дима сайз 20 рх </p>
 
 
 
