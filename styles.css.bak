@@ -42,3 +42,7 @@ font-family:Verdana }
 font-family:Comic Sans MS } 
 [front=Courier] {
 font-family:Courier New }
+
+#elem h2 {
+	
+}
