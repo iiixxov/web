@@ -71,7 +71,18 @@
 <p front=Comic> Comic Sans MS</p> 
 <p front=Courier >Courier New</p> 
 
-
+<ul>
+	<li>
+		<i>курсив</i>
+		<b>жирный</b>
+		<b><i>жирный курсив</i></b>
+	</li>
+	<li>
+		<i>курсив</i>
+		<b>жирный</b>
+		<b><i>жирный курсив</i></b>
+	</li>
+</ul>
 
 
 
