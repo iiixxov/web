@@ -1,19 +1,32 @@
+body {
+	width: 500px;
+}
+
 h1 {
-	text-align: left;
+	color: blue;
+	text-align: center;
 }
 
 h2 {
+	color: green;
 	text-align: center;
-	width: 300px;
+	font-weight: normal;
 }
-td {
-	width: 500px;
-	text-align: center;
+
+
+i {
+	color: green;
 }
-th {
-	text-align: letf;
-}
+
+
 p {
-	width: 300px;
-	text-align: justify;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 25px;
+    font-family: Arial;
+    text-indent: 40px;
+}
+
+ul {
+	width: 400px;
 }
