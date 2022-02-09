@@ -44,5 +44,17 @@ font-family:Comic Sans MS }
 font-family:Courier New }
 
 .xxx {
-	size: 30px;
+	font-size: 30px;
+}
+
+.red{
+	color:red;
+}
+
+.green { 
+	color:green;
+}
+
+.blue {
+	color:blue;
 }

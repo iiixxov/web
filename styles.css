@@ -8,9 +8,6 @@ h1 {
 color: red; 
 }
 
-h2 {
-color: green; 
-}
 
 td {
 	width: 100px;
@@ -45,4 +42,16 @@ font-family:Courier New }
 
 .xxx {
 	font-size: 30px;
+}
+
+.red{
+	color:red;
+}
+
+.green { 
+	color:green;
+}
+
+.blue {
+	color:blue;
 }
