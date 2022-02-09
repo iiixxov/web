@@ -42,3 +42,16 @@ font-family:Verdana }
 font-family:Comic Sans MS } 
 [front=Courier] {
 font-family:Courier New }
+
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
