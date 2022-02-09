@@ -69,9 +69,21 @@
 <p front=Trebuchet> Trebuchet MS</p> 
 <p front=Impact> Impact</p> 
 <p front=Comic> Comic Sans MS</p> 
-<p front=Courier >Courier New)</p> 
+<p front=Courier >Courier New</p> 
 
+<ul>
+	<li>пункт <i>курсив</i></li>
+	<li>пункт <i>курсив</i></li>
+	<li>пункт <i>курсив</i></li>
+	<li>пункт <i>курсив</i></li>
+</ul>
 
+<p>
+	текст абзаца <i>курсив</i>
+</p>
+<p>
+	текст абзаца <i>курсив</i>
+</p>
 
 
 
