@@ -49,7 +49,10 @@ font-family:Courier New }
 }
 
 .z21_2 {
-	{
 	text-decoration: line-through;
-	color: green:
+	color: green;
+}
+
+.z21_3 {
+	text-decoration: underline;
 }
