@@ -44,5 +44,10 @@ font-family:Comic Sans MS }
 font-family:Courier New }
 
 #elem h2 {
-	
+}
+
+#elem .text{
+}
+
+#elem.= .text{
 }
