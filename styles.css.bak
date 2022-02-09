@@ -49,5 +49,8 @@ font-family:Courier New }
 #elem .text{
 }
 
-#elem.= .text{
+#elem p.text{
+}
+
+#elem li.text{
 }
